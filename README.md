@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Basanta Shrestha (basan-ta)
+# Hi there👋 , I'm Basanta Shrestha (basan-ta)
 
 [🌐 Website](https://www.basanta-shrestha.com.np) • [GitHub](https://github.com/basan-ta) • [Email](mailto:basanta.shrestha077@gmail.com) • [LinkedIn](https://www.linkedin.com/in/basanta-shrestha2)
 
