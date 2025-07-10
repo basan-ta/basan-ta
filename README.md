@@ -56,10 +56,11 @@ Docker, Git, GitHub, LaTeX
 
 ## 🌱 Interests
 
-- Robotics & Automation
-- AI-driven technologies
+- AI driven technologies
+- ML & Deep Learning 
 - Natural Language Processing
 - Computer Vision
+- Automation
 
 ---
 
