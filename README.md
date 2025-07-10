@@ -34,23 +34,13 @@ I'm a passionate Electronics, Communication, and Information Engineering graduat
 
 ## 🛠️ Skills & Technologies
 
-**Languages::**  
-Python, C/C++, SQL, Shell/Bash, HTML/CSS
+**Languages::** Python, C/C++, SQL, Shell/Bash, HTML/CSS
+**Core CS Concepts:**  Data Structures & Algorithms, Computer Vision, NLP, Image Processing
+**AI & Data Science:**  Machine Learning, Deep Learning, Artificial Intelligence
+**Frameworks & Libraries:**  PyTorch, Scikit-learn, Hugging Face, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
+**Cloud & Platforms:**  AWS (SageMaker, EC2, Lightsail), Google Colab, Jupyter Notebook, kaggle 
+**DevOps & Tools:**  Docker, Git, GitHub, LaTeX
 
-**Core CS Concepts:**  
-Data Structures & Algorithms, Computer Vision, NLP, Image Processing
-
-**AI & Data Science:**  
-Machine Learning, Deep Learning, Artificial Intelligence
-
-**Frameworks & Libraries:**  
-PyTorch, Scikit-learn, Hugging Face, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
-
-**Cloud & Platforms:**  
-AWS (SageMaker, EC2, Lightsail), Google Colab, Jupyter Notebook, kaggle 
-
-**DevOps & Tools:**  
-Docker, Git, GitHub, LaTeX
 
 ---
 
