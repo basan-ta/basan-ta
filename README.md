@@ -34,15 +34,15 @@ I'm a Electronics, Communication, and Information Engineering graduate from TU, 
 
 ## 🛠️ Skills & Technologies
 
-- **Languages::** Python, C/C++, SQL, Shell/Bash, HTML/CSS
+- **Languages::** Python, C/C++, SQL,
 
 - **Core CS Concepts:**  Data Structures & Algorithms, Computer Vision, NLP, Image Processing
 
 - **AI & Data Science:**  Machine Learning, Deep Learning, Artificial Intelligence
 
-- **Frameworks & Libraries:**  PyTorch, Scikit-learn, Hugging Face, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
+- **Frameworks & Libraries:**  PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
 
-- **Cloud & Platforms:**  AWS (SageMaker, EC2, Lightsail), Google Colab, Jupyter Notebook, kaggle 
+- **Cloud & Platforms:**  AWS (SageMaker, EC2, Lightsail), Google Colab, Jupyter Notebook, kaggle ,Hugging Face
 
 - **DevOps & Tools:**  Docker, Git, GitHub, LaTeX
 
