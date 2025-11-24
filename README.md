@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Electronics, Communication, and Information Engineering graduate from TU, Purwanchal Campus, Nepal, with a deep interest in data science, artificial intelligence, machine learning, and automation. I love building things that blend hardware and software especially intelligent systems with real-world impact!
+I'm a Electronics, Communication, and Information Engineer graduate from TU, Purwanchal Campus, Nepal, with a deep interest in data science, artificial intelligence, machine learning, and automation. I love building things that blend hardware and software especially intelligent systems with real-world impact!
 
 ---
 
