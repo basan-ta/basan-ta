@@ -11,14 +11,17 @@ I work across software architecture, backend development, cloud infrastructure, 
 
 ---
 
+
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, JavaScript, Dart, C/C++, SQL
-- **Development:** Django, FastAPI, Next.js, Flutter, REST APIs
-- **Databases:** PostgreSQL, Redis, Milvus
+- **Backend & Frontend:** Django, FastAPI, Next.js, Flutter, REST APIs
+- **AI & LLM Engineering:** LLMs, AI Agents, RAG, LangChain, Embeddings, Vector DB.
+- **Machine Learning:** PyTorch, Scikit-learn, OpenCV, NLP, Deep Learning
+- **Databases & Vector Stores:** PostgreSQL, Redis, Milvus
 - **Cloud & DevOps:** Docker, Dokploy, Nginx, Linux, AWS, Cloudflare
-- **AI & Robotics:** PyTorch, OpenCV, ROS 2, SLAM, LiDAR
-- **Networking:** FortiGate, Cisco, Cambium
+- **Robotics & Networking:** ROS 2, SLAM, LiDAR, FortiGate, Cisco, Cambium
+
 
 ## 📄 Research Publication
 
