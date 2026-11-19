@@ -1,81 +1,35 @@
-# Hi there👋 , I'm Basanta Shrestha (basan-ta)
 
-[🌐 Website](https://www.basanta-shrestha.com.np) • [GitHub](https://github.com/basan-ta) • [Email](mailto:basanta.shrestha077@gmail.com) • [LinkedIn](https://www.linkedin.com/in/basanta-shrestha2)
+# Hi, I'm Basanta Shrestha 👋
 
----
+**Engineer | Technical Project Lead |AI & Full-Stack Developer | DevOps**
 
-## 🚀 About Me
+I'm an Electronics, Communication, and Information Engineering graduate from IOE Purwanchal Campus, Tribhuvan University, Nepal.
 
-I'm a Electronics, Communication, and Information Engineer graduated from TU, Purwanchal Campus, Nepal, with a deep interest in data science, artificial intelligence, machine learning, and automation. I love building things that blend hardware and software especially intelligent systems with real-world impact!
+I work across software architecture, backend development, cloud infrastructure, networking, AI, and robotics. I enjoy building systems, exploring technologies, and solving real-world engineering problems.
 
----
-
-
-## Publications
-
-- **Publication:**  
-  _Navigation of Mobile Robot with Nav2 and SLAM using LiDAR_  
-  [2025 4th International Conference on Sentiment Analysis and Deep Learning (ICSADL)](https://doi.org/10.1109/ICSADL65848.2025.10933029)
-
----
-
-
-## 💻 Projects
-
-- **GNN Based Recommendation System (University Major Project)**
-  - Built a full-stack recommendation system using Milvus, HuggingFace, PyTorch, Django, Remix, PostgreSQL, and advanced GNNs (SAGEConv, GAT, GATv2)
-  - Implemented efficient API & static file management (Nginx, Gunicorn, Whitenoise)
-  - Developed custom hybrid models with data scraped from various sources
-
-- **Navigation of Mobile Robot with Nav2 and SLAM using LiDAR**
-  - (See publication above)
+🌐 [Portfolio](https://basanta-shrestha.com.np) • [GitHub](https://github.com/basan-ta) • [LinkedIn](https://www.linkedin.com/in/basanta-shrestha2)
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages::** Python, C/C++, SQL,
+- **Languages:** Python, JavaScript, Dart, C/C++, SQL
+- **Development:** Django, FastAPI, Next.js, Flutter, REST APIs
+- **Databases:** PostgreSQL, Redis, Milvus
+- **Cloud & DevOps:** Docker, Dokploy, Nginx, Linux, AWS, Cloudflare
+- **AI & Robotics:** PyTorch, OpenCV, ROS 2, SLAM, LiDAR
+- **Networking:** FortiGate, Cisco, Cambium
 
-- **Core CS Concepts:**  Data Structures & Algorithms, Computer Vision, NLP, Image Processing
+## 📄 Research Publication
 
-- **AI & Data Science:**  Machine Learning, Deep Learning, Artificial Intelligence
+**Navigation of Mobile Robot with Nav2 and SLAM using LiDAR**
 
-- **Frameworks & Libraries:**  PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
-
-- **Cloud & Platforms:**  AWS (SageMaker, EC2, Lightsail), Google Colab, Jupyter Notebook, kaggle ,Hugging Face
-
-- **DevOps & Tools:**  Docker, Git, GitHub, LaTeX
-
-  
-
----
-
-## 🌱 Interests
-
-- AI driven technologies
-- ML & Deep Learning 
-- Natural Language Processing
-- Computer Vision
-- Automation
+[ICSADL 2025 — IEEE](https://doi.org/10.1109/ICSADL65848.2025.10933029)
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect
 
-- 🌐 [www.basanta-shrestha.com.np](https://www.basanta-shrestha.com.np)
-- 📧 [basanta.shrestha077@gmail.com](mailto:basanta.shrestha077@gmail.com)
-- 🐙 [GitHub](https://github.com/basan-ta)
-- 💼 [LinkedIn](https://www.linkedin.com/in/basanta-shrestha2)
+📧 [Email](mailto:basanta.shrestha077@gmail.com) • 🌐 [Website](https://basanta-shrestha.com.np) • 💼 [LinkedIn](https://www.linkedin.com/in/basanta-shrestha2)
 
----
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-
-  ![basan-ta's GitHub stats](https://github-readme-stats.vercel.app/api?username=basan-ta&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basan-ta&layout=compact&theme=radical)
-</details>
-
----
-
-*Languages: Nepali (Native), English (Proficient)*
+**Languages:** Nepali (Native), English (Proficient)
